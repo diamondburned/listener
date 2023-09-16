@@ -1,3 +1,9 @@
+## **Deprecated**!
+
+Please use [hserve](https://github.com/diamondburned/hserve) instead.
+
+---
+
 # listener
 
 A small library to provide TCP+Unix listener functions as well as graceful
